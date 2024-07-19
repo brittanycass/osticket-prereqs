@@ -37,15 +37,7 @@ Table Of Contents
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Part 1 (Create Virtual Machine in Azure)
-Create a Resource Group
-Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-When creating the VM, allow it to create a new Virtual Network (Vnet)
-Part 1 (Create Virtual Machine in Azure)
-Create a Resource Group
-Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-When creating the VM, allow it to create a new Virtual Network (Vnet)
-creating a name, username and password of your choosing
+<p>Part 1 (Create Virtual Machine in Azure by going to https://portal.azure.com/.Set up the virtual machine with Windows 10 Pro. Be sure to create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs. When creating the VM, allow it to create a new Virtual Network (Vnet)creating a name, username and password of your choosing.
 </p>
 <br />
 
