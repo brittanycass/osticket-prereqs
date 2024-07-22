@@ -100,6 +100,8 @@ Enable and Expand the following features
 
 
 Once youve selected the features and click okay it will install IIS which is the web serving that osTicket runs on. 
+
+
 **NOTE: To test if the changes were applied succesfully, type "127.0.0.1" on your browser and this page below should appear.**
 </p>
 
@@ -237,4 +239,8 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” . Restart the I
 ![image](https://github.com/user-attachments/assets/ced4553b-9a98-46cf-97d7-4ebaefb8205b)
 
  **Congratulations!! 🎉 you just installed osTicket** 🥳 🥳 🥳
-    - Browse to your help desk login page: `http://localhost/osTicket/scp/login.php
+
+
+ ![image](https://github.com/user-attachments/assets/97af139b-0648-47f2-90d7-41694f1fd20c)
+
+   - Browse to your help desk login page: `http://localhost/osTicket/scp/login.php
